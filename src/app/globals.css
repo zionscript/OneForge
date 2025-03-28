@@ -23,7 +23,7 @@ html {
 
 body {
   /* background: var(--background); */
-  background: linear-gradient(0deg, #944f00,var(--background) 70%) no-repeat;
+  background: linear-gradient(0deg, #d87300,var(--background) 70%) no-repeat;
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
