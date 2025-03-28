@@ -15,7 +15,7 @@ export default function Home() {
       <main className="flex flex-col w-full p-6 items-center justify-center">
         <h1 className="text-center text-[3rem] sm:text-[3rem] md:text-[5rem] font-bold font-inter">Automatize seus atendimentos com chatbots.</h1>
         <h2 className="text-center text-[1.5rem] font-[500] font-inter">saque no pix e outros metodos de pagamento e sem taxas abusivas.</h2>
-        <div className="flex justify-center w-[200px] bg-[#c06600] px-[10px] py-[5px] rounded-[8px] mt-[20px]">
+        <div className="flex justify-center w-[200px] bg-[#c06600] px-[20px] py-[10px] rounded-[8px] mt-[20px]">
           <a className="font-bold" href="#">Get started</a>
         </div>
         <section id="get" className="flex justify-center w-full p-4 bg-[#00000030] backdrop-blur-md rounded-[20px] mt-20">
