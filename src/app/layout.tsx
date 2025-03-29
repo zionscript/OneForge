@@ -23,7 +23,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      //Testar impacto na performance
+      {/* Testar impacto na performance */}
       <Script async src="https://www.googletagmanager.com/gtag/js?id=G-DP1QZK0H4H" />
         <Script
           id="google-analytics"
