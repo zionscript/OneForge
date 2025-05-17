@@ -1,10 +1,10 @@
-export const AmazonPay = "/images/payment-badges/amazon-pay.png";
-export const Paypal = "/images/payment-badges/paypal.png";
-export const Stripe = "/images/payment-badges/stripe.png";
-export const Metamask = "/images/payment-badges/metamask.png";
+export const AmazonPay = "/images/payment-badges/AmazonPay.png";
+export const Paypal = "/images/payment-badges/Paypal.png";
+export const Stripe = "/images/payment-badges/Stripe.png";
+export const Metamask = "/images/payment-badges/Metamask.png";
 
-export const Ethereum = "/images/payment-badges/ethereum.png";
-export const Bitcoin = "/images/payment-badges/bitcoin.png";
+export const Ethereum = "/images/payment-badges/Ethereum.png";
+export const Bitcoin = "/images/payment-badges/Bitcoin.png";
 
 
 export const PaymentBadges = [{
