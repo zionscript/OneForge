@@ -6,6 +6,7 @@ export const Metamask = "/images/payment-badges/metamask.png";
 export const Ethereum = "/images/payment-badges/ethereum.png";
 export const Bitcoin = "/images/payment-badges/bitcoin.png";
 
+
 export const PaymentBadges = [{
    method: "Amazon Pay",
     image: AmazonPay,
