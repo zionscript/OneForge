@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   icons:{
     icon: [{url: "./logo.svg", type: "image/svg+xml"}]
   },
-  title: `${'Home'} | Dialog Forge`,
+  title: `${'Home'} | DYGO CODE`,
   description: "Dialog Forge | Automatize seu atendimento com seu próprio bot",
 };
 
